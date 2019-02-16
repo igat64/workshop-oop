@@ -1,0 +1,5 @@
+{
+  "linters": {
+    "**/*.{ts,js,json}": ["prettier-standard", "git add"]
+  }
+}
