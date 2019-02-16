@@ -28,7 +28,7 @@ npm i
 npm run start
 
 # or with ip
-npm run start 123.123.123.123
+npm run start -- 123.123.123.123
 ```
 
 ## Test app
