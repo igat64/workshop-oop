@@ -18,6 +18,7 @@ npm i
 ```bash
 # get info of current ip
 ./bin/getgeo.js
+
 # or get info for some specific ip
 ./bin/getgeo.js 123.123.123.123
 ```
@@ -25,6 +26,7 @@ npm i
 ## Start app
 ```bash
 npm run start
+
 # or with ip
 npm run start 123.123.123.123
 ```
