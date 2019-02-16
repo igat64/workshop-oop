@@ -6,7 +6,7 @@ It is possible to use it as cli tool or as library.
 
 ## Clone repo
 ```bash
-git clone git@github.com:igat64/workshop-oop__getgeo.git && cd workshop-oop
+git clone git@github.com:igat64/workshop-oop__getgeo.git && cd workshop-oop__getgeo
 ```
 
 ## Install deps
